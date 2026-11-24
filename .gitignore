@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Pipeline artifacts
+chk/
+warehouse/
+*.parquet
+.env
+
+# OS
+.DS_Store
